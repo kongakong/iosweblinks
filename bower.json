@@ -6,7 +6,7 @@
     "Robin van Baalen <robin@neverwoods.com>"
   ],
   "description": "Make iOS web app links open in web app view.",
-  "main": "webapplinks.js",
+  "main": "dist/webapplinks.js",
   "moduleType": [
     "globals"
   ],
