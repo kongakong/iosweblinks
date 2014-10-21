@@ -17,3 +17,7 @@ Using the `iosweblinks` code snippet, iOS won't open a new browser for every anc
 `bower install --save-dev stylr/iosweblinks`
 
 You can use this in combination with for example [grunt-wiredep](https://github.com/stephenplusplus/grunt-wiredep) to install this package as a (development) dependency.
+
+#### Credits
+
+Credits go to @kylebarrow and contributors in this gist: https://gist.github.com/kylebarrow/1042026
