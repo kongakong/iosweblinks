@@ -1,7 +1,7 @@
 {
   "name": "ios-weblinks",
-  "version": "1.0.2",
-  "homepage": "https://github.com/stylr/iosweblinks",
+  "version": "1.0.3",
+  "homepage": "https://github.com/kongakong/iosweblinks",
   "authors": [
     "Robin van Baalen <robin@neverwoods.com>"
   ],
@@ -15,7 +15,6 @@
     "webview",
     "anchors",
     "external",
-    "links",
     "links"
   ],
   "license": "MIT",
